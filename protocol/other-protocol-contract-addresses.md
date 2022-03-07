@@ -1,0 +1,22 @@
+# Other Protocol Contract Addresses
+
+### MEDAL
+[0x9339e657C93FEE0Ef66d02454E309C9c94E8Db2F](https://snowtrace.io/address/0x9339e657C93FEE0Ef66d02454E309C9c94E8Db2F)
+
+### MSHARE
+[0xf03E3983B0393116b8eC41112f6dE4995430bd04](https://snowtrace.io/address/0xf03E3983B0393116b8eC41112f6dE4995430bd04)
+
+### MBOND
+[0x288c0B22C1130EB7dACBf769049cd40f07CE8Caf](https://snowtrace.io/address/0x288c0B22C1130EB7dACBf769049cd40f07CE8Caf)
+
+### Treasury
+[0xba0C90d960d049e6823CE6FAc3A09B9dA4fFa646](https://snowtrace.io/address/0xba0C90d960d049e6823CE6FAc3A09B9dA4fFa646)
+
+### GenesisRewardPool
+[0x2952c54967CE3d590406eDff2c8e52fBFf612498](https://snowtrace.io/address/0x2952c54967CE3d590406eDff2c8e52fBFf612498)
+
+### MshareRewardPool
+[0xf03E3983B0393116b8eC41112f6dE4995430bd04](https://snowtrace.io/address/0xf03E3983B0393116b8eC41112f6dE4995430bd04)
+
+### Boardroom
+[0xD95fe0A2C457b4fa94D287bF50f0183Fd311B1E2](https://snowtrace.io/address/0xD95fe0A2C457b4fa94D287bF50f0183Fd311B1E2)
